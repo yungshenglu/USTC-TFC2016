@@ -9,27 +9,27 @@ This repository is used for storing a traffic dataset called "USTC-TFC2016", whi
 
 ```
 Benign/
-    |--- BitTorrent.pcap
-    |--- Facetime.pcap
-    |--- FTP.7z
-    |--- Gmail.pcap
-    |--- MySQL.pcap
-    |--- Outlook.pcap
-    |--- Skype.pcap
-    |--- SMB.7z
-    |--- Weibo.7z
-    |--- WorldOfWarcraft.pcap
+    ├── BitTorrent.pcap
+    ├── Facetime.pcap
+    ├── FTP.7z
+    ├── Gmail.pcap
+    ├── MySQL.pcap
+    ├── Outlook.pcap
+    ├── Skype.pcap
+    ├── SMB.7z
+    ├── Weibo.7z
+    └── WorldOfWarcraft.pcap
 Malware/
-    |--- Cridex.7z
-    |--- Geodo.7z
-    |--- Htbot.7z
-    |--- Miuref.pcap
-    |--- Neris.7z
-    |--- Nsis-ay.7z
-    |--- Shifu.7z
-    |--- Tinba.pcap
-    |--- Virut.7z
-    |--- Zeus.pcap
+    ├── Cridex.7z
+    ├── Geodo.7z
+    ├── Htbot.7z
+    ├── Miuref.pcap
+    ├── Neris.7z
+    ├── Nsis-ay.7z
+    ├── Shifu.7z
+    ├── Tinba.pcap
+    ├── Virut.7z
+    └── Zeus.pcap
 ```
 
 ---
